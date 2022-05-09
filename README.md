@@ -19,3 +19,6 @@ Computer sceince master's student.
 ### Data Strucures
 - **[Bloom's filter](https://github.com/MajoRoth/Bloom-Filter)** - Implementation for Bloom's filter, written in Java.
 - **[Py sorts](https://github.com/MajoRoth/PYsorts)** - Several sorts, written in Python.
+
+### Physics
+- **[Velocity Selector](https://github.com/MajoRoth/VelocitySelector)** - Analytical and numerical analysis of a velocity selector, written in python.
