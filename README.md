@@ -1,5 +1,5 @@
 # About Me
-Computer sceince master's student.
+Computer sceince student.
 
 ## Projects
 
