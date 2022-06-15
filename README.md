@@ -7,6 +7,7 @@ Computer sceince student.
 
 - **[ORAM](https://github.com/MajoRoth/ORAM)** - Storage server and client, writing files with ORAM protocol to prevent statistical inference.
 - **[PKI](https://github.com/MajoRoth/public_key_infrastructure)** - python public key infrastructure.
+- **[Shamir Secret Key Sharing](https://github.com/MajoRoth/shamir_secret_key_sharing)** - A variation of Shamir secret sey sharing that enables dealer-free dynamic threshold.
 - **[CTF](https://github.com/MajoRoth/ctf)** - low level ctf. buffer overflow, use after free and reverse engineering.
 
 ### Web
