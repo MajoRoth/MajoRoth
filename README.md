@@ -1,6 +1,7 @@
 # About Me
 Computer sceince Researcher at HUJI
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 
 ## Projects
 
