@@ -9,6 +9,7 @@ Computer sceince student.
 - **[PKI](https://github.com/MajoRoth/public_key_infrastructure)** - python public key infrastructure.
 - **[Shamir Secret Key Sharing](https://github.com/MajoRoth/shamir_secret_key_sharing)** - A variation of Shamir secret sey sharing that enables dealer-free dynamic threshold.
 - **[CTF](https://github.com/MajoRoth/ctf)** - low level ctf. buffer overflow, use after free and reverse engineering.
+- **[DNS Spoofing]([https://github.com/MajoRoth/ctf](https://github.com/MajoRoth/DNSSpoofing))** - DNS spoofer created as an exercise and perforemd on a local network and on a personal computer.
 
 ### ML and AI
 
