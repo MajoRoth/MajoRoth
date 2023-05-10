@@ -1,6 +1,5 @@
 # About Me
 Computer sceince Researcher at HUJI
-
 <a href="https://www.linkedin.com/in/amit-roth/">
   <img align="left" alt="Amit Roth Linkedin Link" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
