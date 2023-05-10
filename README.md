@@ -17,6 +17,8 @@ Computer sceince student.
 ### Physics
 - **[Velocity Selector](https://github.com/MajoRoth/VelocitySelector)** - Analytical and numerical analysis of a velocity selector, written in python.
 - **[Gravitational Lensing](https://github.com/MajoRoth/GravitationalLensing)** - Numerical analysis for gravitational lensing - causes from big masses wrapping the space around them.
+- **[Plotter](https://github.com/MajoRoth/plotter)** - A python scripts that creates publication quality graphs, with fits, and residual graphs, with several lines of code. Also supplied material from several RLC measurments I performed.
+
 
 ### Web
 
