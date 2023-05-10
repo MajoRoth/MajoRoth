@@ -1,5 +1,5 @@
 # About Me
-Computer sceince student.
+Computer sceince Researcher at HUJI
 
 ## Projects
 
