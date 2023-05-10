@@ -1,7 +1,11 @@
 # About Me
 Computer sceince Researcher at HUJI
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/MajoRoth/plotter/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+
+<a href="https://www.linkedin.com/in/amit-roth/">
+  <img align="left" alt="Amit Roth Linkedin Link" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 ## Projects
 
