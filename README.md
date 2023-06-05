@@ -34,6 +34,8 @@ Computer sceince Researcher at HUJI
 - **[Assembler](https://github.com/MajoRoth/Assembler)** - Implementation for assembler, written in C.
 - **[Bloom's filter](https://github.com/MajoRoth/Bloom-Filter)** - Implementation for Bloom's filter, written in Java.
 - **[Py sorts](https://github.com/MajoRoth/PYsorts)** - Several sorts, written in Python.
-- **[Threads Lib](https://github.com/MajoRoth/os_ex2)** -- cpp library that manages threads.
+- **[Threads Lib](https://github.com/MajoRoth/os_ex2)** - a cpp library that manages threads.
+- - **[Map Reduce](https://github.com/MajoRoth/os_ex3)** -- acpp library that manages multithreading and allows you to proceess map reduce jobs.
+
 
 
