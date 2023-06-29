@@ -13,12 +13,12 @@ Computer sceince Researcher at HUJI
 - **[PKI](https://github.com/MajoRoth/public_key_infrastructure)** - python public key infrastructure.
 - **[Shamir Secret Key Sharing](https://github.com/MajoRoth/shamir_secret_key_sharing)** - A variation of Shamir secret sey sharing that enables dealer-free dynamic threshold.
 - **[CTF](https://github.com/MajoRoth/ctf)** - low level ctf. buffer overflow, use after free and reverse engineering.
-- **[DNS Spoofing](https://github.com/MajoRoth/DNSSpoofing)** - DNS spoofer created as an exercise and perforemd on a local network and on a personal computer.
+- **[DNS Spoofing](https://github.com/c/DNSSpoofing)** - DNS spoofer created as an exercise and perforemd on a local network and on a personal computer.
 
 ### ML and AI
 
 - **[Calendar Scheduler](https://github.com/matanEpel/ai-project---calender)** - AI algorithm that finds the most satisfiable times for meetings between users and schedules their calendar.
-- **[ASR](https://github.com/matanEpel/ASR)** -Automatic Speech Recognition model developed as a final project in the course "Introduction to audio processing".
+- **[ASR](https://github.com/MajoRoth/ASR)** -Automatic Speech Recognition model developed as a final project in the course "Introduction to audio processing".
 
 
 ### Physics
