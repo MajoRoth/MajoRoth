@@ -18,6 +18,8 @@ Computer sceince Researcher at HUJI
 ### ML and AI
 
 - **[Calendar Scheduler](https://github.com/matanEpel/ai-project---calender)** - AI algorithm that finds the most satisfiable times for meetings between users and schedules their calendar.
+- **[ASR](https://github.com/matanEpel/ASR)** -Automatic Speech Recognition model developed as a final project in the course "Introduction to audio processing".
+
 
 ### Physics
 - **[Velocity Selector](https://github.com/MajoRoth/VelocitySelector)** - Analytical and numerical analysis of a velocity selector, written in python.
