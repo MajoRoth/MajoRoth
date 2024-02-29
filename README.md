@@ -31,17 +31,17 @@ Computer sceince Researcher at HUJI
 
 [comment]: <> (### Web)
 
-[comment]: <> (- **[Gimel](https://github.com/MajoRoth/gimel)** - Website built with Django. Manages inventory and requests to my scoutes tribe.)
+[comment]: <> ([Gimel]https://github.com/MajoRoth/gimel** - Website built with Django. Manages inventory and requests to my scoutes tribe.)
 
 [comment]: <> (### OS)
-[comment]: <> (- **[Threads Lib](https://github.com/MajoRoth/os_ex2)** - a cpp library that manages threads.)
-[comment]: <> (- **[Map Reduce](https://github.com/MajoRoth/os_ex3)** - a cpp library that manages multithreading and allows you to proceess map reduce jobs.)
-[comment]: <> (- **[Virtual Memory](https://github.com/MajoRoth/ex4)** - a cpp library that manages virtual memory usage using paging mechanisem and hierarchical page tables.)
+[comment]: <> ([Threads Lib]https://github.com/MajoRoth/os_ex2** - a cpp library that manages threads.)
+[comment]: <> ([Map Reduce]https://github.com/MajoRoth/os_ex3** - a cpp library that manages multithreading and allows you to proceess map reduce jobs.)
+[comment]: <> ([Virtual Memory]https://github.com/MajoRoth/ex4** - a cpp library that manages virtual memory usage using paging mechanisem and hierarchical page tables.)
 
 
 [comment]: <> (### Other)
-[comment]: <> (- **[Assembler](https://github.com/MajoRoth/Assembler)** - Implementation for assembler, written in C.)
-[comment]: <> (- **[Bloom's filter](https://github.com/MajoRoth/Bloom-Filter)** - Implementation for Bloom's filter, written in Java.)
-[comment]: <> (- **[Py sorts](https://github.com/MajoRoth/PYsorts)** - Several sorts, written in Python.)
+[comment]: <> ([Assembler]https://github.com/MajoRoth/Assembler** - Implementation for assembler, written in C.)
+[comment]: <> ([Bloom's filter]https://github.com/MajoRoth/Bloom-Filter** - Implementation for Bloom's filter, written in Java.)
+[comment]: <> ([Py sorts]https://github.com/MajoRoth/PYsorts** - Several sorts, written in Python.)
 
 
