@@ -18,7 +18,7 @@ I am a Computer Science Msc student at [SLP lab](https://www.cs.huji.ac.il/~adiy
 
 - **[CTF](https://github.com/MajoRoth/ctf)** - cybersecutiry low level ctf. buffer overflow, use after free and reverse engineering.
 - **[ASR](https://github.com/MajoRoth/ASR)** -Automatic Speech Recognition model developed as a final project in the course "Introduction to audio processing".
-- - **[VAE](https://github.com/MajoRoth/VAE)** - Varational Auto Encoder, trained on MNIST.
+- **[VAE](https://github.com/MajoRoth/VAE)** - Varational Auto Encoder, trained on MNIST.
 - **[Velocity Selector](https://github.com/MajoRoth/VelocitySelector)** - [physics] Analytical and numerical analysis of a velocity selector, written in python.
 - **[Gravitational Lensing](https://github.com/MajoRoth/GravitationalLensing)** - [physics] Numerical analysis for gravitational lensing - causes from big masses wrapping the space around them.
 
