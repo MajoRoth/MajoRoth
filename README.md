@@ -6,6 +6,8 @@ I am a Computer Science Msc student at [SLP lab](https://www.cs.huji.ac.il/~adiy
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amit-roth/) 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Amit_Roth) 
 [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:amitroth@gmail.com) 
+[<img src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">](https://scholar.google.co.il/citations?user=Lv8_7kQAAAAJ&hl=iw)
+
 
  <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Interested+in+AI;Interested+in+language+models;Interested+in+generative_models;)](https://git.io/typing-svg) -->
 ## Publications
