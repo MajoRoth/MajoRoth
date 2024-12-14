@@ -14,7 +14,7 @@ I am a Computer Science Msc student at [SLP lab](https://www.cs.huji.ac.il/~adiy
 
 - **[HebTTS](https://pages.cs.huji.ac.il/adiyoss-lab/HebTTS/)** - A Language Modeling Approach to Diacritic-Free Hebrew TTS
 - **[HebDB](https://pages.cs.huji.ac.il/adiyoss-lab/HebDB/)** - A Weakly Supervised Dataset for Hebrew Speech Processing
-- **[SALMon](https://pages.cs.huji.ac.il/adiyoss-lab/SALMon/)** - An acoustic aware benchmark for evaluating speech language models
+- **[SALMon](https://pages.cs.huji.ac.il/adiyoss-lab/salmon/)** - An acoustic aware benchmark for evaluating speech language models
 
 
 
