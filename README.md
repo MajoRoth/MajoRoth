@@ -1,7 +1,7 @@
 # Hey, I'm Amit Roth
 
 
-I am a Computer Science Msc student at [SLP lab](https://www.cs.huji.ac.il/~adiyoss/slprl/index.html) at the Hebrew University of Jerusalem, under the supervision of Dr. Yossi Adi.
+I am a Computer Science researcher at [SLP lab](https://www.cs.huji.ac.il/~adiyoss/slprl/index.html) at the Hebrew University of Jerusalem, under the supervision of Dr. Yossi Adi.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amit-roth/) 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Amit_Roth) 
