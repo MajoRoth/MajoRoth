@@ -15,6 +15,7 @@ I am a Computer Science researcher at [SLP lab](https://www.cs.huji.ac.il/~adiyo
 - **[HebTTS](https://pages.cs.huji.ac.il/adiyoss-lab/HebTTS/)** - A Language Modeling Approach to Diacritic-Free Hebrew TTS
 - **[HebDB](https://pages.cs.huji.ac.il/adiyoss-lab/HebDB/)** - A Weakly Supervised Dataset for Hebrew Speech Processing
 - **[SALMon](https://pages.cs.huji.ac.il/adiyoss-lab/salmon/)** - An acoustic aware benchmark for evaluating speech language models
+- **[SIMS](https://pages.cs.huji.ac.il/adiyoss-lab/sims/)** - Scaling Analysis of Interleaved Speech-Text Language Models
 
 
 
