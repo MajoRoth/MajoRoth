@@ -3,11 +3,11 @@
 
 I am a PhD student at Tel Aviv University, advised by Yonathan Efroni. I have broad interests in agentic AI and large language models. My current research focuses on studying reward hacking in LLM-based agents. Before that, I researched text-to-speech and speech language models at HUJI.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amit-roth/) 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Amit_Roth) 
-[<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:amitroth@gmail.com) 
-[<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">](https://scholar.google.com/citations?user=aUHJ154AAAAJ&hl=iw)
-
+  [<img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />](https://majoroth.github.io)
+  [<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=aUHJ154AAAAJ&hl=iw)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amit-roth/)
+  [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Amit_Roth)
+  [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:amitroth@gmail.com)
 
  <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Interested+in+AI;Interested+in+language+models;Interested+in+generative_models;)](https://git.io/typing-svg) -->
 ## Publications
