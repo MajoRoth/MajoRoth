@@ -1,7 +1,7 @@
 # Hey, I'm Amit Roth
 
 
-I am a Computer Science researcher at [SLP lab](https://www.cs.huji.ac.il/~adiyoss/slprl/index.html) in the Hebrew University of Jerusalem, under the supervision of Dr. Yossi Adi.
+I am a PhD student at Tel Aviv University, advised by Yonathan Efroni. I have broad interests in agentic AI and large language models. My current research focuses on studying reward hacking in LLM-based agents. Before that, I researched text-to-speech and speech language models at HUJI.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amit-roth/) 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Amit_Roth) 
